@@ -1,2 +1,3 @@
 # Practica-Global-de-Programacion-Orientada-a-Objetos
-Una practica global compuesta por 5 practicas en las que se estudian las principales caracteristicas de este paradigma de la programacíon
+A global practice composed of 5 practices in which the main characteristics of this paradigm of programming are studied. Each practice is uploaded individually but each one is dependent on the previous ones.
+
